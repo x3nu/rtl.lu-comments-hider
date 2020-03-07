@@ -5,7 +5,7 @@
 // @description  Hiding all comments on rtl.lu
 // @author       x3nu
 // @homepage     https://github.com/x3nu/rtl.lu-comments-hider
-// @match        *://www.rtl.lu/*
+// @match        *://*.rtl.lu/*
 // @grant        GM_addStyle
 // ==/UserScript==
 
